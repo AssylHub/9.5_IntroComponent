@@ -31,7 +31,7 @@ body {
 .title {
     font-size: 30px;
     margin-bottom: 20px;
-    font-size: inherit;
+/*     font-size: inherit; */
 }
 .subtitle {
     margin-bottom: 50px;
