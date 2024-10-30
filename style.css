@@ -31,7 +31,7 @@ body {
 .title {
     font-size: 30px;
     margin-bottom: 20px;
-/*     font-size: inherit; */
+    /* font-size: inherit; */
 }
 .subtitle {
     margin-bottom: 50px;
@@ -127,4 +127,10 @@ body {
     .wrapper {
         font-size: 300%;
     }
+} */
+
+/* input:focus:invalid {
+    display: flex;
+    background-color: blue;
+    border: 1px solid red;
 } */
